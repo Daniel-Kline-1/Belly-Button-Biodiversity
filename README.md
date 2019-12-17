@@ -18,11 +18,17 @@ To deploy this locally on your own device you will need to pip install the softw
 onto your device. 
 
 os
+
 pandas
+
 numpy
+
 sqlalchemy
+
 flask
+
 flask_sqlalchemy
+
 
 The project can be deployed using Gitbash on Windows and the Terminal application on Macs. 
 
